@@ -32,6 +32,6 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Paso3
-        run: |
+        run:
           echo Linea1
           echo Linea2
